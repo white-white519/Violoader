@@ -1,3 +1,5 @@
+<img width="449" height="449" alt="gpt-image-2_A_3D_video_game_icon_in_chunky_low-poly_PSX_style_voxel_art _A_retro_chunky_90s_-0" src="https://github.com/user-attachments/assets/e564d17f-1a14-443d-af45-b4b19c6ae9e9" />
+
 # 📦 Violoader v7.2.0 — Мой интересный нейрослопчик
 
 
